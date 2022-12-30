@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MarutSharma
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Android Application Development 
+- Check Out My LinkedIn - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="marut-sharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/marut-sharma?trk=profile-badge">MARUT SHARMA</a></div>
+              
 
 
 
