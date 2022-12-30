@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarutSharma
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Android Application Development 
-- 📫 How to reach me marutsharma007@gmail.com
+
 
 
 
