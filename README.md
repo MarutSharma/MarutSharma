@@ -33,3 +33,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marutsharma&show_icons=true&locale=en" alt="marutsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marutsharma&" alt="marutsharma" /></p>
+
+<h2 align="center">Jokes 😂</h2> 
+<img align =
+"center" src="https://camo.githubusercontent.com/7b56962f1bb5a67d5ee37d8af47382872e42e917cd628aed1f7c44ceeecd4a5a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34316c495342565862396752543332772f67697068792e676966" alt="Jokes Card" />
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<h2 align="center">GitHub Quotes</h2>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
