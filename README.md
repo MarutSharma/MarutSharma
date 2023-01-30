@@ -13,7 +13,9 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarutSharma&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarutSharma&theme=highcontrast)
+
+
 
 <!---
 MarutSharma/MarutSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
